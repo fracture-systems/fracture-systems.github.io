@@ -4,7 +4,7 @@ This is a tool written in Rust with WebGPU for Gnome Shell to fracture (crop) an
 
 # Install: The recommended way is to use Flathub
 
-[![download-on-flathub](/fracture/img/flatpak-badge/flathub-badge-i-en.png)](https//todo)
+[![download-on-flathub](/fracture/img/flatpak-badge/flathub-badge-i-en.png)](https://flathub.org/en/apps/systems.fracture.launcher)
 
 # Pictures
 ![1](/fracture/img/preview/1.png)
@@ -16,8 +16,6 @@ This is a tool written in Rust with WebGPU for Gnome Shell to fracture (crop) an
 ![4](/fracture/img/preview/4.png)
 
 ![5](/fracture/img/preview/5.png)
-
-![6](/fracture/img/preview/6.png)
 
 ![7](/fracture/img/preview/7.png)
 
